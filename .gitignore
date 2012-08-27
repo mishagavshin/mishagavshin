@@ -11,13 +11,13 @@ bin
 var
 sdist
 develop-eggs
-.installed.cfg
+.installed.cfgghh
 
 # Installer logs
 pip-log.txt
-
+hgh
 # Unit test / coverage reports
-.coverage
+.coveragegghft6
 .tox
 
 #Translations
